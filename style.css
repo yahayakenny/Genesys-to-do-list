@@ -1,0 +1,24 @@
+.list {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column; 
+}
+
+input {
+    width: 300px !important;
+}
+
+span {
+    margin-left: 200px;
+}
+
+li {
+    font-family: 'Raleway';
+    font-size: 40px;
+}
+
+.show-list {
+    display: relative;
+}
